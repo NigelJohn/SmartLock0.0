@@ -1,0 +1,11 @@
+# Ignore personal datasets and raw photos
+known_faces/
+raw_base_photos/
+
+# Ignore Python virtual environments and caches
+venv/
+__pycache__/
+*.pyc
+
+# Ignore environment/system files
+.vscode/
